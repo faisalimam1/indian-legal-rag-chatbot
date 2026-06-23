@@ -208,7 +208,7 @@ This tool is for **educational purposes only** and does not constitute legal adv
 
 ## 👨‍💻 About
 
-Built as the **Phase 3 capstone project** of a 30-day AI Engineering roadmap — covering everything from raw PDF extraction to deployed chatbot, with every retrieval bug documented publicly.
+Built as a project covering everything from raw PDF extraction to deployed chatbot, with every retrieval bug documented publicly.
 
 **Developed by [Faisal Imam](https://github.com/faisalimam1)**
 
