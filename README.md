@@ -1,24 +1,25 @@
 ---
 title: Indian Legal Assistant BNS 2023
-emoji: ??
+emoji: ?
 colorFrom: blue
-colorTo: orange
+colorTo: green
 sdk: gradio
 sdk_version: "4.0"
 app_file: app.py
 pinned: true
 ---
 
-# ?? Indian Legal Assistant - BNS 2023
+# Indian Legal Assistant BNS 2023
 
 A RAG-powered chatbot for the Bharatiya Nyaya Sanhita (BNS) 2023.
+Replaced the Indian Penal Code on 1 July 2024.
 
 ## What It Does
 - Answers grounded in the official BNS 2023 document (237 pages)
 - Cites exact section numbers and page numbers
 - Multi-turn follow-up questions via conversation memory
 - Hybrid retrieval: BM25 + semantic search via RRF
-- Refuses to hallucinate - says so if answer not in document
+- Refuses to hallucinate
 
 ## Tech Stack
 - LLM: Llama 3.3 70B via Groq API
