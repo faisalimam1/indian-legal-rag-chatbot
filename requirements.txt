@@ -1,0 +1,10 @@
+gradio>=4.0.0
+langchain
+langchain-groq
+langchain-core
+chromadb
+sentence-transformers
+rank-bm25
+pdfplumber
+numpy
+requests
