@@ -1,6 +1,6 @@
 ---
 title: Indian Legal Assistant BNS 2023
-emoji: ?
+emoji: "⚖"
 colorFrom: blue
 colorTo: green
 sdk: gradio
@@ -11,8 +11,7 @@ pinned: true
 
 # Indian Legal Assistant BNS 2023
 
-A RAG-powered chatbot for the Bharatiya Nyaya Sanhita (BNS) 2023.
-Replaced the Indian Penal Code on 1 July 2024.
+A RAG-powered chatbot for the Bharatiya Nyaya Sanhita (BNS) 2023 - India's current criminal code that replaced the Indian Penal Code on 1 July 2024.
 
 ## What It Does
 - Answers grounded in the official BNS 2023 document (237 pages)
