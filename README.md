@@ -1,6 +1,6 @@
 ---
 title: Indian Legal Assistant BNS 2023
-emoji: ??
+emoji: ⚖️
 colorFrom: blue
 colorTo: orange
 sdk: gradio
