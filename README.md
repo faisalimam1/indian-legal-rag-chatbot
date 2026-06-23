@@ -9,7 +9,7 @@ app_file: app.py
 pinned: true
 ---
 
-# ?? Indian Legal Assistant - BNS 2023
+# Indian Legal Assistant - BNS 2023
 
 A RAG-powered chatbot for the Bharatiya Nyaya Sanhita (BNS) 2023.
 
